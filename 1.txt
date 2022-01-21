@@ -1,3 +1,4 @@
 first line
 second line frome remote repository
-third line with conflict on master
+branch_with_conflicts
+third line with conflict on branch with comment!
