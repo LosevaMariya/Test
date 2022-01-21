@@ -1,2 +1,3 @@
 first line
 second line frome remote repository
+third line with conflict on branch...
